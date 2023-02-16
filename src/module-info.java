@@ -5,5 +5,5 @@
  * @author User
  *
  */
-module Projeto1 {
+module ProjetoJava {
 }
